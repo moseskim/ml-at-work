@@ -6,6 +6,7 @@
 
 ## 저장소 구성
 
+
 각 장별로 폴더를 나누어 노트북을 제공합니다. 또한 각 노트북은 구글 코랩<sup>Google Collaboratory</sup>를 이용해 브라우저에서 실행할 수 있습니다.
 
 - [2장 샘플 코드](chap02/Decision_boundary.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap02/Decision_boundary.ipynb)
