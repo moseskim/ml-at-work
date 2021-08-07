@@ -17,7 +17,7 @@
 - 10장 샘플 코드
   - [기타 1](chap10/LR-forbook.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap10/LR-forbook.ipynb)
   - [이메일 분석](chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap10/Kevin_Hillstrom_MineThatData_E-MailAnalytics.ipynb)
-- 11章のサンプルコード
+- 11장 샘플 
   - [기타 1](chap11/01_bandit_test.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap11/01_bandit_test.ipynb)
   - [기타 2](chap11/02_bandit_algorithm_compare.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap11/02_bandit_algorithm_compare.ipynb)
   - [기타 3](chap11/03_contextual_bandit.ipynb) / [Google Colab에서 열기](https://colab.research.google.com/github/moseskim/ml-at-work/blob/master/chap11/03_contextual_bandit.ipynb)
